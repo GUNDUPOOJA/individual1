@@ -25,9 +25,9 @@ Here is the link to that commit -
 3. I created the table which includes team members name,SID,the project roles,using html table generator in google and added that code in index.html file and pushed this file to commit
 Here is the link to that commit – 
 - https://github.com/sumana-reddy/GDP-1-project/commit/0877043440da6bd30cfdb0c203e159a5712c72dc
-<img src = "images/30.png">
+<img src= "images/30.png">
 4. How many points you earned in each section?
-Answer 
+- Answer 
 - We are giving our hundred percent on our project. Am working on the website part of the project. This is the first time am working and learning app development, as I am learning new things I am ready to work hard and do the best for the project.
 - I think I earned 280 points in this section.
 
