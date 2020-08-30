@@ -28,17 +28,30 @@ Here is the link to that commit –
 <img src= "images/30.png">
 4. How many points you earned in each section?
 <br> Answer <br>
-<p> We are giving our hundred percent on our project. Am working on the website part of the project. This is the first time am working and learning app development, as I am learning new things,I am ready to work hard and do the best for the project <br>
-<p>I think I earned 280 points in this section.</p>
-## 3.	Half day 2 
-1.	Created index.html file and added code in file for homepage and added code in styles.css file, pushed 2 files to the Github.
-Here is the link to that commit – 
+<p>- We are giving our hundred percent on our project. Am working on the website part of the project. This is the first time am working and learning app development, as I am learning new things,I am ready to work hard and do the best for the project <br>
+<p>- I think I earned **280 points** in this section.</p>
+## 3.Half day 2 
+1.	Created index.html file and added code in file for homepage and added code in styles.css file, pushed 2 files to the Github.<br>
+<p>Here is the link to that commit –</p><br>
 - https://github.com/sumana-reddy/GDP-1-project/commit/ee36eed178b54e86c25ed7cb138c7ca09b5caea2
 <img src = "images/3.png">
 2. Changed background image in html file and modified some cascaded style sheets( CSS ) properties for it in styles.css file <br>
-<p> Here is the link to that commit – </p>
+<p> Here is the link to that commit </p>
 - https://github.com/sumana-reddy/GDP-1-project/commit/658a54f5174e42a5bc25fb29fe8d346737b2465b
 <img src = "images/4.png">
+3. Added some java script code in index.html like for example in this repo I included script for onclick() function to display a message when user clicks the button, to make the homepage look better and modified code in stylesheets file also.<br>
+<p>Here is the link to that commit –</p><br>
+- https://github.com/sumana-reddy/GDP-1-project/commit/c034830de9b4df9b9d823edb1f7da1cda2e102ed
+<img src = "images/5.png">
+4. Added homepage screenshot with the name proposed screen in Readme.md File. Uploaded the screenshot to canvas site files and updated the image link in this file.<br>
+<p>Here is the link to that commit</p><br>
+- https://github.com/sumana-reddy/GDP-1-project/commit/c4603b1f8bc00a1b1e53e39257e3a858fa8d78b3
+<img src = "images/6.png">
+5. How many points you earned in each section?<br>
+Answer<br>
+<p> I think I earned 280 points in this section</p><br>
+
+
 
 
 
