@@ -24,15 +24,15 @@ Here is the link to that commit -
 <img src ="images\1.png">
 3. I created the table which includes team members name,SID,the project roles,using html table generator in google and added that code in index.html file.<br>
 Here is the link to that commit<br> 
-- https://github.com/sumana-reddy/GDP-1-project/commit/0877043440da6bd30cfdb0c203e159a5712c72dc
+*https://github.com/sumana-reddy/GDP-1-project/commit/0877043440da6bd30cfdb0c203e159a5712c72dc
 <img src= "images/30.png">
 4. How many points you earned in each section?
 <br> Answer <br>
-<p>- We are giving our hundred percent on our project. Am working on the website part of the project. This is the first time am working and learning app development, as I am learning new things,I am ready to work hard and do the best for the project <br>
-<p>- I think I earned__280 points__in this section.</p>
-## 3.Half day 2 
+<p>1. We are giving our hundred percent on our project. I am working on the website part of the project. This is the first time am working and learning app development, as I am learning new things,I am ready to work hard and do the best for the project <br>
+<p>2. I think I earned 280 points in this section.</p>
+## 3. Half day 2 
 1.	Created index.html file and added code in file for homepage and added code in styles.css file, pushed 2 files to the Github.<br>
-<p>Here is the link to that commit –</p><br>
+<p>Here is the link to that commit-</p><br>
 - https://github.com/sumana-reddy/GDP-1-project/commit/ee36eed178b54e86c25ed7cb138c7ca09b5caea2
 <img src = "images/3.png">
 2. Changed background image in html file and modified some cascaded style sheets( CSS ) properties for it in styles.css file <br>
@@ -49,7 +49,7 @@ Here is the link to that commit<br>
 <img src = "images/6.png">
 5. How many points you earned in each section?<br>
 Answer<br>
-<p> I think I earned 280 points in this section</p><br>
+<p>I think I earned 280 points in this section</p><br>
 
 
 
