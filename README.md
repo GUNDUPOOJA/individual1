@@ -1,8 +1,8 @@
 ## Team Progress Report - Individual
 # Project Name: Northwest Quest Hunt Game
-# Name: Pooja Gundu
-# 919: 919587319
-# SID: s538195
+Name: Pooja Gundu
+919: 919587319
+SID: s538195
 
 ## Report
 
@@ -18,3 +18,6 @@
 1.	After creating the repo I started checking the content in Readme.md and rectified some small spelling mistakes.
  Here is the link to the commit -
 - https://github.com/sumana-reddy/GDP-1-project/commit/3a2a1366c6cfa037b2f1362de67cb4868d022a10
+1.	Added some description in Readme.md file like project client description, mentor details, client details. 
+Here is the link to that commit -
+- https://github.com/sumana-reddy/GDP-1-project/commit/5e5684339fb32265b57b20d8c62fceaafb4680c1
