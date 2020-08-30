@@ -21,7 +21,7 @@
 1.	Added some description in Readme.md file like project client description, mentor details, client details. 
 Here is the link to that commit -
 - https://github.com/sumana-reddy/GDP-1-project/commit/5e5684339fb32265b57b20d8c62fceaafb4680c1
-<img src ="C:\Users\s538295\Desktop\individual1\images\1.png">
+<img src ="images\1.png">
 1. I created the table which includes team members name,SID,the project roles,using html table generator in google and added that code in index.html file and pushed this file to commit
 Here is the link to that commit – 
 - https://github.com/sumana-reddy/GDP-1-project/commit/0877043440da6bd30cfdb0c203e159a5712c72dc
