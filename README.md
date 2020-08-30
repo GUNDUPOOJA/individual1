@@ -16,7 +16,7 @@
 
 ## 2.	Half day 1 
 1.	After creating the repo I started checking the content in Readme.md and rectified some small spelling mistakes.<br>
- Here is the link to the commit<br>
+Here is the link to the commit<br>
 - https://github.com/sumana-reddy/GDP-1-project/commit/3a2a1366c6cfa037b2f1362de67cb4868d022a10
 2.	Added some description in Readme.md file like project client description, mentor details, client details.<br>
 Here is the link to that commit <br>
@@ -33,29 +33,43 @@ Here is the link to that commit <br>
 
 ## 3. Half day 2 
 1.	Created index.html file and added code in file for homepage and added code in styles.css file, pushed 2 files to the Github.<br>
-<p>Here is the link to that commit-</p><br>
-1. https://github.com/sumana-reddy/GDP-1-project/commit/ee36eed178b54e86c25ed7cb138c7ca09b5caea2
+<p>Here is the link to that commit </p>
+- https://github.com/sumana-reddy/GDP-1-project/commit/ee36eed178b54e86c25ed7cb138c7ca09b5caea2
 <img src = "images/3.png">
 2. Changed background image in html file and modified some cascaded style sheets( CSS ) properties for it in styles.css file <br>
-<p> Here is the link to that commit </p><br>
-1. https://github.com/sumana-reddy/GDP-1-project/commit/658a54f5174e42a5bc25fb29fe8d346737b2465b
+<p> Here is the link to that commit </p>
+- https://github.com/sumana-reddy/GDP-1-project/commit/658a54f5174e42a5bc25fb29fe8d346737b2465b
 <img src = "images/4.png">
 3. Added some java script code in index.html like for example in this repo I included script for onclick() function to display a message when user clicks the button, to make the homepage look better and modified code in stylesheets file also.<br>
-<p>Here is the link to that commit –</p><br>
-1. https://github.com/sumana-reddy/GDP-1-project/commit/c034830de9b4df9b9d823edb1f7da1cda2e102ed
+<p>Here is the link to that commit </p>
+- https://github.com/sumana-reddy/GDP-1-project/commit/c034830de9b4df9b9d823edb1f7da1cda2e102ed
 <img src = "images/5.png">
 4. Added homepage screenshot with the name proposed screen in Readme.md File. Uploaded the screenshot to canvas site files and updated the image link in this file.<br>
-<p>Here is the link to that commit</p><br>
-1. https://github.com/sumana-reddy/GDP-1-project/commit/c4603b1f8bc00a1b1e53e39257e3a858fa8d78b3
+<p>Here is the link to that commit</p>
+- https://github.com/sumana-reddy/GDP-1-project/commit/c4603b1f8bc00a1b1e53e39257e3a858fa8d78b3
 <img src = "images/6.png">
 5. How many points you earned in each section?<br>
 Answer<br>
 <p>I think I earned 280 points in this section</p><br>
-## 4. Half day 3 
+### 4. Half day 3 
 1.	Created proposal document and added things like table for team members, and some description about these things - statement of purpose, overview, Functional requirements of admin etc.<br>
-<p>Here is the link to that commit </p><br> 
+<p>Here is the link to that commit </p>
 - https://github.com/sumana-reddy/GDP-1-project/blob/7b8cc9ac0f56d731ced64d0fa1d788b6afda06f6/Project%20proposal.docx
-
+<img src ="images/7.png">
+2. Updated Jira screenshot in Readme.md file by uploading the picture to Canvas site files.<br>
+Here is the link to that commit
+- https://github.com/sumana-reddy/GDP-1-project/commit/26a491ab8e2f0ae681b0691a87b353e466455ca1
+<img src="images/8.png">
+3. In references added the citation for background image<br>
+Here is the link to that commit  
+- https://github.com/sumana-reddy/GDP-1-project/commit/7d31fb1ea3bfe7671b84974878170d17603e3075
+<img src ="images/9.png">
+4. In Jira board added a to-do task (proposed screens) <br>
+Here is the screenshot for that.<br>
+<img src ="images/10.png">
+5.	How many points you earned in each section?<br>
+Answer<br>
+- I think I earned 280 points in this section.
 
 
 
