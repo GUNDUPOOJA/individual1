@@ -1,8 +1,8 @@
 ## Team Progress Report - Individual
 # Project Name: Northwest Quest Hunt Game
-# Name: Pooja Gundu
-# 919: 919587319
-# SID: s538195
+## Name: Pooja Gundu
+## 919: 919587319
+## SID: s538195
 
 ## Report
 
@@ -21,9 +21,7 @@
 1.	Added some description in Readme.md file like project client description, mentor details, client details. 
 Here is the link to that commit -
 - https://github.com/sumana-reddy/GDP-1-project/commit/5e5684339fb32265b57b20d8c62fceaafb4680c1
-1. [screenshot for the above commit](https://nwmissouri.instructure.com/files?preview=4030987)
-1.3.	I created the table which includes team members name,SID,the project roles,using html table generator in google and added that code in index.html file and pushed this file to commit
+<img src ="images/1.png">
+1. I created the table which includes team members name,SID,the project roles,using html table generator in google and added that code in index.html file and pushed this file to commit
 Here is the link to that commit – 
 - https://github.com/sumana-reddy/GDP-1-project/commit/0877043440da6bd30cfdb0c203e159a5712c72dc
-[screenshot for the above commit](
-https://nwmissouri.instructure.com/files?preview=4031003)
